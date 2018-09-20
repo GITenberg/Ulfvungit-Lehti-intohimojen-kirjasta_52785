@@ -1,0 +1,31 @@
+_repo: Ulfvungit-Lehti-intohimojen-kirjasta_52785
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Halonen, Maija
+    gutenberg_agent_id: '44890'
+    url: http://www.gutenberg.org/2009/agents/44890
+creator:
+  author:
+    agent_name: Lie, Jonas
+    alias: Lie, Jonas Lauritz Idemil
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '5095'
+    url: http://www.gutenberg.org/2009/agents/5095
+    wikipedia: http://en.wikipedia.org/wiki/Jonas_Lie
+description: ''
+gutenberg_issued: '2016-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52785'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Ulfvungit: Lehti intohimojen kirjasta'
+url: http://www.gutenberg.org/ebooks/52785
